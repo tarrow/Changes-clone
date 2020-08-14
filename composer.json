@@ -1,6 +1,6 @@
 {
 	"name": "wikibase/changes",
-	"description": "Library to manage changes to Wikibase Entities",
+	"description": "Library to manage changes to Wikibase Entities ",
 	"type": "library",
 	"license": "GPL-2.0-or-later",
 	"require": {
